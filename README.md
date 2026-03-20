@@ -31,7 +31,7 @@ The calculator captures user input through button clicks, processes the operatio
 <br>
 <h3>Live Demo</h3>
 <br>
-https://itzsohammane.github.io/Calculator/index.html
+https://itzsohammane.github.io/Calculator
 <br>
 <h3>🎯 Purpose</h3>
 <br>
