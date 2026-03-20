@@ -17,10 +17,22 @@ function clearDisplay(){
 
 function calculate(){
     try {
-        //using eval() evaluate the string as math
-        display.value = eval(display.value);
-    } catch (Error) {
-       //Handles invalid  expressions
-       display.value = 'Error';
+        // Check if user is trying to divide by zero
+        if (display.value.includes('/0')) {
+            display.value = 'Error';
+            return;
+        }
+
+        let result = eval(display.value);
+
+        // Handle cases like Infinity (JS returns this for division by 0)
+        if (result === Infinity || result === -Infinity) {
+            display.value = 'Error';
+        } else {
+            display.value = result;
+        }
+
+    } catch (error) {
+        display.value = 'Error';
     }
 }
