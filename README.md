@@ -27,14 +27,12 @@ A lightweight and user-friendly calculator application built using HTML, CSS, an
 <h3>💡 How It Works</h3>
 <br>
 The calculator captures user input through button clicks, processes the operation using JavaScript logic, and dynamically updates the result on the screen. The application ensures smooth interaction and immediate feedback for a seamless user experience.
-<br>
-<br>
+
 <h3>Live Demo</h3>
-<br>
 https://itzsohammane.github.io/Calculator/index.html
-<br>
+
 <h3>🎯 Purpose</h3>
-<br>
+
 <b>This project is designed to:</b>
 <ul>
 <li>Strengthen fundamental JavaScript concepts.</li>
@@ -44,8 +42,7 @@ https://itzsohammane.github.io/Calculator/index.html
 <li>Add advanced operations (square root, percentage, etc.).</li>
 <li>Improve UI with animations.</li>
 </ul>
-<br>
+
 <h3>📬 Conclusion</h3>
-<br>
+
 <b>This simple calculator serves as a foundational project for beginners looking to enhance their front-end development skills and build interactive web applications.<b>
-<br>
