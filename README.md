@@ -29,6 +29,9 @@ A lightweight and user-friendly calculator application built using HTML, CSS, an
 The calculator captures user input through button clicks, processes the operation using JavaScript logic, and dynamically updates the result on the screen. The application ensures smooth interaction and immediate feedback for a seamless user experience.
 <br>
 <br>
+<h3>Screenshot</h3>
+<img src="Screenshot.png" alt="Website Screenshot" width="auto">
+<br>
 <h3>Live Demo</h3>
 <br>
 https://itzsohammane.github.io/Calculator
